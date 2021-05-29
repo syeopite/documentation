@@ -1,0 +1,234 @@
+https:
+  # Template instance
+  # - url: example.com
+  #   country:
+  #     flag: 🇫🇮
+  #     name: Finland
+  #   status_url: status.example.com
+  #   privacy_policy: privacy.example.com
+  #   ddos_mitm_protection: Cloudflare
+  #   owner: https://github.com/example
+  #   modified:
+  #     is_modified: False
+  #     source_url: null
+
+
+  - url: https://invidious.snopyta.org
+    country:
+      flag: 🇫🇮
+      name: Finland
+    status_url: https://status.unixfox.eu/783898765
+    privacy_policy: https://snopyta.org/privacy_policy
+    ddos_mitm_protection: null
+    owner: https://github.com/Perflyst
+    modified:
+      is_modified: False
+      source_url: null
+  
+  - url: https://yewtu.be
+    country:
+      flag: 🇫🇷
+      name: France
+    status_url: null
+    privacy_policy: null
+    ddos_mitm_protection: null
+    owner: https://github.com/unixfox
+    modified:
+      is_modified: False
+      source_url: null
+
+  - url: https://invidious.kavin.rocks
+    country:
+      flag: 🇮🇳
+      name: India
+    status_url: https://status.kavin.rocks/786132664
+    privacy_policy:
+    ddos_mitm_protection: Cloudflare
+    owner: https://github.com/FireMasterK
+    modified:
+      is_modified: False
+      source_url: null
+
+  - url: https://invidious-us.kavin.rocks
+    country:
+      flag: 🇺🇸
+      name: USA
+    status_url: https://status.kavin.rocks/788216947
+    privacy_policy:
+    ddos_mitm_protection: Cloudflare
+    owner: https://github.com/FireMasterK
+    modified:
+      is_modified: False
+      source_url: null
+
+  - url: https://invidious.048596.xyz
+    country:
+      flag: 🇨🇦
+      name: Canada
+    status_url: https://status.048596.xyz/786792286
+    privacy_policy:
+    ddos_mitm_protection:
+    owner: https://github.com/tenpura-shrimp
+    modified:
+      is_modified: False
+      source_url: null
+
+  - url: https://vid.puffyan.us
+    country:
+      flag: 🇺🇸
+      name: USA
+    status_url: https://stats.uptimerobot.com/n7A08HGVl6/786947233
+    privacy_policy:
+    ddos_mitm_protection:
+    owner: https://github.com/ItsSt0ne
+    modified:
+      is_modified: False
+      source_url: null
+
+  - url: https://ytprivate.com
+    country:
+      flag: 🇺🇸
+      name: USA
+    status_url: https://status.ytprivate.com/786947505
+    privacy_policy:
+    ddos_mitm_protection: DDoS-Guard
+    owner: https://github.com/ytprivatecom
+    modified:
+      is_modified: True
+      source_url: https://github.com/ytprivatecom/invidious
+
+  - url: https://invidious.namazso.eu
+    country:
+      flag: 🇩🇪
+      name: Germany
+    status_url: 
+    privacy_policy: https://namazso.eu/privacy.html
+    ddos_mitm_protection: 
+    owner: https://github.com/namazso
+    modified:
+      is_modified: False
+      source_url: null
+
+  - url: https://invidious.silkky.cloud
+    country:
+      flag: 🇫🇮
+      name: Finland
+    status_url: https://status.silkky.cloud/787784614
+    privacy_policy:
+    ddos_mitm_protection: 
+    owner: https://github.com/TheSilkky
+    modified:
+      is_modified: False
+      source_url: null
+
+  - url: https://invidious.exonip.de
+    country:
+      flag: 🇩🇪
+      name: Germany
+    status_url: https://status.exonip.de
+    privacy_policy: 
+    ddos_mitm_protection: 
+    owner: https://github.com/Exonip
+    modified:
+      is_modified: False
+      source_url: null
+
+  - url: https://notyoutube.org
+    country:
+      flag: 🇫🇮
+      name: Finland
+    status_url: 
+    privacy_policy: 
+    ddos_mitm_protection: 
+    owner: https://github.com/Eggo-Plant
+    modified:
+      is_modified: False
+      source_url: null
+
+  - url: https://inv.riverside.rocks
+    country:
+      flag: 🇺🇸
+      name: USA
+    status_url: 
+    privacy_policy:
+    ddos_mitm_protection: 
+    owner: https://github.com/RiversideRocks
+    modified:
+      is_modified: False
+      source_url: null
+
+  - url: https://invidious.blamefran.net
+    country:
+      flag: 🇺🇸
+      name: USA
+    status_url: 
+    privacy_policy:
+    ddos_mitm_protection: 
+    owner: https://github.com/Aidan16
+    modified:
+      is_modified: False
+      source_url: null
+
+onion:
+  # Template onion instance
+  # - url: http://example.onion
+  #   country:
+  #     flag: 🇺🇸
+  #     name: USA
+  #   associated_clearnet_instance: example.com
+  #   privacy_policy: privacy.example.com
+  #   owner: https://github.com/example
+  #   modified:
+  #     is_modified: False
+  #     source_url: null
+
+  - url: http://c7hqkpkpemu6e7emz5b4vyz7idjgdvgaaa3dyimmeojqbgpea3xqjoid.onion
+    country:
+    status_url: 
+    privacy_policy: 
+    owner:
+    modified:
+      is_modified: False
+      source_url: null
+
+  - url: http://w6ijuptxiku4xpnnaetxvnkc5vqcdu7mgns2u77qefoixi63vbvnpnqd.onion/
+    country:
+    associated_clearnet_instance: 
+    privacy_policy: 
+    owner:
+    modified:
+      is_modified: False
+      source_url: null
+
+  - url: http://kbjggqkzv65ivcqj6bumvp337z6264huv5kpkwuv6gu5yjiskvan7fad.onion/
+    country:
+      flag: 🇳🇱
+      name: Netherlands
+    associated_clearnet_instance: 
+    privacy_policy: 
+    owner:
+    modified:
+      is_modified: False
+      source_url: null
+
+  - url: http://grwp24hodrefzvjjuccrkw3mjq4tzhaaq32amf33dzpmuxe7ilepcmad.onion/
+    country:
+      flag: 🇺🇸
+      name: USA
+    associated_clearnet_instance: 
+    privacy_policy: 
+    owner:
+    modified:
+      is_modified: False
+      source_url: null
+
+  - url: http://hpniueoejy4opn7bc4ftgazyqjoeqwlvh2uiku2xqku6zpoa4bf5ruid.onion/
+    country:
+      flag: 🇺🇸
+      name: USA
+    associated_clearnet_instance: https://invidious.kavin.rocks
+    privacy_policy: 
+    owner: https://github.com/FireMasterK
+    modified:
+      is_modified: False
+      source_url: null
