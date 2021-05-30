@@ -246,7 +246,7 @@ instances:
       country:
         flag: 🇫🇮
         name: Finland
-      invidious.snopyta.org: invidious.snopyta.org
+      associated_clearnet_instance: https://invidious.snopyta.org
       privacy_policy:
       owner: https://github.com/Perflyst
       modified:

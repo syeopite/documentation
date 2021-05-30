@@ -33,7 +33,7 @@ Instances API: [api.invidious.io](api.invidious.io)
 
 |Address|Country|Associated clearnet instance|Privacy policy|Owner|Modified|
 | :---: | :---: | :---: | :---: | :---: | :---: |
-|[c7hqkpkpemu6e7emz5b4vyz7idjgdvgaaa3dyimmeojqbgpea3xqjoid.onion](http://c7hqkpkpemu6e7emz5b4vyz7idjgdvgaaa3dyimmeojqbgpea3xqjoid.onion)|🇫🇮 Finland|invidious.snopyta.org||[@Perflyst](https://github.com/Perflyst)|No|
+|[c7hqkpkpemu6e7emz5b4vyz7idjgdvgaaa3dyimmeojqbgpea3xqjoid.onion](http://c7hqkpkpemu6e7emz5b4vyz7idjgdvgaaa3dyimmeojqbgpea3xqjoid.onion)|🇫🇮 Finland|[invidious.snopyta.org](https://invidious.snopyta.org)||[@Perflyst](https://github.com/Perflyst)|No|
 |[w6ijuptxiku4xpnnaetxvnkc5vqcdu7mgns2u77qefoixi63vbvnpnqd.onion](http://w6ijuptxiku4xpnnaetxvnkc5vqcdu7mgns2u77qefoixi63vbvnpnqd.onion/)|🇮🇳 India|[invidious.kavin.rocks](https://invidious.kavin.rocks)||[@FireMasterK](https://github.com/FireMasterK)|No|
 |[kbjggqkzv65ivcqj6bumvp337z6264huv5kpkwuv6gu5yjiskvan7fad.onion](http://kbjggqkzv65ivcqj6bumvp337z6264huv5kpkwuv6gu5yjiskvan7fad.onion/)|🇳🇱 Netherlands|||[@tirz](https://github.com/tirz)|No|
 |[grwp24hodrefzvjjuccrkw3mjq4tzhaaq32amf33dzpmuxe7ilepcmad.onion](http://grwp24hodrefzvjjuccrkw3mjq4tzhaaq32amf33dzpmuxe7ilepcmad.onion/)|🇺🇸 USA|[vid.puffyan.us](https://vid.puffyan.us)||[@ItsSt0ne](https://github.com/ItsSt0ne)|No|
@@ -56,6 +56,6 @@ Instances API: [api.invidious.io](api.invidious.io)
 ## Directions
 
 1. Fork the documentation repo.
-2. Open `instances.yaml` for editing."
+2. Open `instances.yaml` for editing.
 3. Append your instance to the bottom of the HTTPS (or onion) list. See the examples in the yaml file for more info.
 4. Make a pull request.
