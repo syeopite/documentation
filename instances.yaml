@@ -233,6 +233,23 @@ instances:
         is_modified: False
         source_url: null 
 
+    - url: https://example.com
+      country:
+        flag: 🇫🇮
+        name: Finland
+      status: 
+        url: https://status.example.com
+        display_content: https://status-image.example.com
+        display_content_is_image: True
+        display_content_image_fallback: uptime status
+      privacy_policy: example.com/privacy
+      ddos_mitm_protection: null
+      owner: https://github.com/example
+      modified:
+        is_modified: False
+        source_url: null
+
+
   onion:
     # Template onion instance
     # - url: http://example.onion
