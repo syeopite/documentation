@@ -26,6 +26,7 @@ Instances API: [api.invidious.io](api.invidious.io)
 |[notyoutube.org](https://notyoutube.org)|🇫🇮 Finland||||[@Eggo-Plant](https://github.com/Eggo-Plant)|No|
 |[inv.riverside.rocks](https://inv.riverside.rocks)|🇺🇸 USA||||[@RiversideRocks](https://github.com/RiversideRocks)|No|
 |[invidious.blamefran.net](https://invidious.blamefran.net)|🇺🇸 USA||||[@Aidan16](https://github.com/Aidan16)|No|
+|[invidious.moomoo.me](https://invidious.moomoo.me)|🇩🇪 Germany|||Cloudflare|[@moom0o](https://github.com/moom0o)|No|
 
 # Tor onion instances list
   
