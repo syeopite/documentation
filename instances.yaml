@@ -17,13 +17,17 @@ adding_instance:
 instances:
   https:
     # Template instance
-    # - url: example.com
+    # - url: https://example.com
     #   country:
     #     flag: 🇫🇮
     #     name: Finland
-    #   status_url: status.example.com
-    #   privacy_policy: privacy.example.com
-    #   ddos_mitm_protection: Cloudflare
+    #   status: 
+    #     url: https://status.example.com
+    #     display_content: https://status-image.example.com
+    #     display_content_is_image: True
+    #     display_content_image_fallback: uptime status
+    #   privacy_policy: example.com/privacy
+    #   ddos_mitm_protection: null
     #   owner: https://github.com/example
     #   modified:
     #     is_modified: False
@@ -235,8 +239,8 @@ instances:
     #   country:
     #     flag: 🇺🇸
     #     name: USA
-    #   associated_clearnet_instance: example.com
-    #   privacy_policy: privacy.example.com
+    #   associated_clearnet_instance: https://example.com
+    #   privacy_policy: https://privacy.example.com
     #   owner: https://github.com/example
     #   modified:
     #     is_modified: False
