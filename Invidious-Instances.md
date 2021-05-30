@@ -21,7 +21,7 @@ Instances API: [api.invidious.io](api.invidious.io)
 |[vid.puffyan.us](https://vid.puffyan.us)|🇺🇸 USA|[![Uptime Robot status](https://img.shields.io/uptimerobot/status/m786947233-1131c3f67b9a20621b1926d3)](https://stats.uptimerobot.com/n7A08HGVl6/786947233)|||[@ItsSt0ne](https://github.com/ItsSt0ne)|No|
 |[ytprivate.com](https://ytprivate.com)|🇺🇸 USA|[![Uptime Robot status](https://img.shields.io/uptimerobot/status/m786947505-2a50cf3262906bb28c6cf8fc)](https://status.ytprivate.com/786947505)||DDoS-Guard|[@ytprivatecom](https://github.com/ytprivatecom)|[Yes](https://github.com/ytprivatecom/invidious)|
 |[invidious.namazso.eu](https://invidious.namazso.eu)|🇩🇪 Germany||[Here](https://namazso.eu/privacy.html)||[@namazso](https://github.com/namazso)|No|
-|[invidious.silkky.cloud](https://invidious.silkky.cloud)|🇫🇮 Finland|[![Uptime Robot status](https://img.shields.io/uptimerobot/status/m787784614-79d1acc4b425d1ed813fc793)](https://status.silkky.cloud/787784614)|||[@TheSilkky](https://github.com/TheSilkky)|No|
+|[invidious.silkky.cloud](https://invidious.silkky.cloud)|🇫🇮 Finland|[![Uptime Robot status](https://img.shields.io/uptimerobot/status/m787784614-79d1acc4b425d1ed813fc793)](https://status.silkky.cloud/787784614)|[Here](https://silkky.cloud/privacy)||[@silkkycloud](https://github.com/silkkycloud)|No|
 |[invidious.exonip.de](https://invidious.exonip.de)|🇩🇪 Germany|[Uptime Robot status](https://status.exonip.de/)|||[@Exonip](https://github.com/Exonip)|No|
 |[notyoutube.org](https://notyoutube.org)|🇫🇮 Finland||||[@Eggo-Plant](https://github.com/Eggo-Plant)|No|
 |[inv.riverside.rocks](https://inv.riverside.rocks)|🇺🇸 USA||||[@RiversideRocks](https://github.com/RiversideRocks)|No|
