@@ -27,6 +27,7 @@ Instances API: [api.invidious.io](api.invidious.io)
 |[inv.riverside.rocks](https://inv.riverside.rocks)|🇺🇸 USA||||[@RiversideRocks](https://github.com/RiversideRocks)|No|
 |[invidious.blamefran.net](https://invidious.blamefran.net)|🇺🇸 USA||||[@Aidan16](https://github.com/Aidan16)|No|
 |[invidious.moomoo.me](https://invidious.moomoo.me)|🇩🇪 Germany|||Cloudflare|[@moom0o](https://github.com/moom0o)|No|
+|[example.com](https://example.com)|🇫🇮 Finland|[![uptime status](https://status-image.example.com)](https://status.example.com)|[Here](example.com/privacy)||[@example](https://github.com/example)|No|
 
 # Tor onion instances list
   
