@@ -31,7 +31,6 @@ instances:
     #   is_modified: false
     #   source: null
 
-
     - url: https://invidious.snopyta.org
       country: FI
       status:
@@ -115,7 +114,6 @@ instances:
       is_modified: false
       source: null
 
-
     - url: https://invidious.exonip.de
       country: DE
       status: 
@@ -164,7 +162,6 @@ instances:
       is_modified: false
       source: null
 
-
     - url: https://yt.cyberhost.uk/
       country: FI
       status: 
@@ -179,7 +176,6 @@ instances:
       is_modified: false
       source: null
 
-
     - url: https://y.com.cm/
       country: DE
       status: 
@@ -188,6 +184,20 @@ instances:
       owner: https://github.com/Showfom
       is_modified: false
       source: null
+      
+    - url: https://invidious.cmh.pw
+      country: US
+      status: 
+        url: https://stats.uptimerobot.com/GwjjntJLKD/788551784
+        display_content: https://img.shields.io/uptimerobot/status/m788551784-5acd7c39c59eca92a5e1346d
+        display_content_is_image: True
+        display_content_image_fallback: Uptime Robot status
+      privacy_policy: 
+      ddos_mitm_protection: Cloudflare
+      owner: https://github.com/ChxseH
+      is_modified: false
+      source: null
+
 
   onion:
     # Template onion instance
