@@ -27,6 +27,7 @@ Instances API: [api.invidious.io](api.invidious.io)
 |[ytb.trom.tf](https://ytb.trom.tf)|🇩🇪 Germany||[Here](None)|None|[@TROMsite](https://github.com/TROMsite)|No|
 |[yt.cyberhost.uk](https://yt.cyberhost.uk/)|🇫🇮 Finland|[![Uptime Robot status](https://img.shields.io/uptimerobot/status/m788432154-c8801112193f349268ea6104)](https://stats.uptimerobot.com/JlM0qH8Ygn)|[Here](None)|None|[@cyberhost-uk](https://github.com/cyberhost-uk)|No|
 |[y.com.cm](https://y.com.cm/)|🇩🇪 Germany||[Here](None)|Cloudflare|[@Showfom](https://github.com/Showfom)|No|
+|[invidious.cmh.pw](https://invidious.cmh.pw)|🇺🇸 United States|[![Uptime Robot status](https://img.shields.io/uptimerobot/status/m788551784-5acd7c39c59eca92a5e1346d)](https://stats.uptimerobot.com/GwjjntJLKD/788551784)|[Here](None)|Cloudflare|[@ChxseH](https://github.com/ChxseH)|No|
   
 
 # Onion instances list
