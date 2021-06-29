@@ -20,7 +20,7 @@ Instances API: [api.invidious.io](api.invidious.io)
 |[vid.puffyan.us](https://vid.puffyan.us)|🇺🇸 United States|[![Uptime Robot status](https://img.shields.io/uptimerobot/status/m786947233-1131c3f67b9a20621b1926d3)](https://stats.uptimerobot.com/n7A08HGVl6/786947233)|[Here](None)|None|[@ItsSt0ne](https://github.com/ItsSt0ne)|No|
 |[invidious.namazso.eu](https://invidious.namazso.eu)|🇩🇪 Germany||[Here](https://namazso.eu/privacy.html)|None|[@namazso](https://github.com/namazso)|No|
 |[invidious.silkky.cloud](https://invidious.silkky.cloud)|🇫🇮 Finland|[![Uptime Robot status](https://img.shields.io/uptimerobot/status/m787784614-79d1acc4b425d1ed813fc793)](https://status.silkky.cloud/787784614)|[Here](None)|None|[@TheSilkky](https://github.com/TheSilkky)|No|
-|[invidious.exonip.de](https://invidious.exonip.de)|🇩🇪 Germany|[Uptime Robot status](https://status.exonip.de/)|[Here](None)|None|[@Exonip](https://github.com/Exonip)|[Yes](https://github.com/exonip-de/invidious-source-modifications)|
+|[invidious.exonip.de](https://invidious.exonip.de)|🇩🇪 Germany|[Status Page](https://status.exonip.de/)|[Here](None)|None|[@Exonip](https://github.com/Exonip)|[Yes](https://github.com/exonip-de/invidious-source-modifications)|
 |[inv.riverside.rocks](https://inv.riverside.rocks)|🇺🇸 United States||[Here](None)|None|[@RiversideRocks](https://github.com/RiversideRocks)|No|
 |[invidious.blamefran.net](https://invidious.blamefran.net)|🇺🇸 United States||[Here](None)|None|[@Aidan16](https://github.com/Aidan16)|No|
 |[invidious.moomoo.me](https://invidious.moomoo.me)|🇩🇪 Germany||[Here](None)|Cloudflare|[@moom0o](https://github.com/moom0o)|No|
@@ -28,6 +28,7 @@ Instances API: [api.invidious.io](api.invidious.io)
 |[yt.cyberhost.uk](https://yt.cyberhost.uk/)|🇫🇮 Finland|[![Uptime Robot status](https://img.shields.io/uptimerobot/status/m788432154-c8801112193f349268ea6104)](https://stats.uptimerobot.com/JlM0qH8Ygn)|[Here](None)|None|[@cyberhost-uk](https://github.com/cyberhost-uk)|No|
 |[y.com.cm](https://y.com.cm/)|🇩🇪 Germany||[Here](None)|Cloudflare|[@Showfom](https://github.com/Showfom)|No|
 |[invidious.cmh.pw](https://invidious.cmh.pw)|🇺🇸 United States|[![Uptime Robot status](https://img.shields.io/uptimerobot/status/m788551784-5acd7c39c59eca92a5e1346d)](https://stats.uptimerobot.com/GwjjntJLKD/788551784)|[Here](None)|Cloudflare|[@ChxseH](https://github.com/ChxseH)|No|
+|[invidious.s1gm4.eu](https://invidious.s1gm4.eu)|🇫🇷 France|[Status Page](https://status.s1gm4.eu)|[Here](None)|None|[@OrnithOrtion](https://github.com/OrnithOrtion)|No|
   
 
 # Onion instances list
