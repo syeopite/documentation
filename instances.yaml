@@ -198,17 +198,17 @@ instances:
       is_modified: false
       source: null
       
-     - url: https://invidious.s1gm4.eu
-       country: FR
-       status: 
-         url: https://status.s1gm4.eu
-         display_content: Status Page
-         display_content_is_image: False
-       privacy_policy:
-       ddos_mitm_protection: null
-       owner: https://s1gm4.eu
-       is_modified: false
-       source: null
+    - url: https://invidious.s1gm4.eu
+      country: FR
+      status: 
+        url: https://status.s1gm4.eu
+        display_content: Status Page
+        display_content_is_image: False
+      privacy_policy:
+      ddos_mitm_protection: null
+      owner: https://github.com/OrnithOrtion
+      is_modified: false
+      source: null
 
 
   onion:
