@@ -118,7 +118,7 @@ instances:
       country: DE
       status: 
         url: https://status.exonip.de/
-        display_content:  Uptime Robot status
+        display_content: Status Page
         display_content_is_image: False
       privacy_policy:
       ddos_mitm_protection:
@@ -197,6 +197,18 @@ instances:
       owner: https://github.com/ChxseH
       is_modified: false
       source: null
+      
+     - url: https://invidious.s1gm4.eu
+       country: FR
+       status: 
+         url: https://status.s1gm4.eu
+         display_content: Status Page
+         display_content_is_image: False
+       privacy_policy:
+       ddos_mitm_protection: null
+       owner: https://s1gm4.eu
+       is_modified: false
+       source: null
 
 
   onion:
