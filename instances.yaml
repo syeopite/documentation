@@ -261,3 +261,11 @@ instances:
       owner: https://github.com/FireMasterK
       is_modified: false
       source: null
+      
+    - url: xinzguzyta7riddeoygku6btmm3mdryxtfzwwjxy3zqpoxk3xg5qq6ad.onion
+      country: DE
+      associated_clearnet_instance: https://invidious.moomoo.me
+      privacy_policy:
+      owner: https://github.com/moom0o
+      is_modified: false
+      source: null
