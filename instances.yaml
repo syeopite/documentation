@@ -262,7 +262,7 @@ instances:
       is_modified: false
       source: null
       
-    - url: xinzguzyta7riddeoygku6btmm3mdryxtfzwwjxy3zqpoxk3xg5qq6ad.onion
+    - url: http://xinzguzyta7riddeoygku6btmm3mdryxtfzwwjxy3zqpoxk3xg5qq6ad.onion
       country: DE
       associated_clearnet_instance: https://invidious.moomoo.me
       privacy_policy:
