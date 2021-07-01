@@ -40,7 +40,7 @@ Instances API: [api.invidious.io](api.invidious.io)
 |[kbjggqkzv65ivcqj6bumvp337z6264huv5kpkwuv6gu5yjiskvan7fad.onion](http://kbjggqkzv65ivcqj6bumvp337z6264huv5kpkwuv6gu5yjiskvan7fad.onion/)|🇳🇱 Netherlands||[Here](None)|[@tirz](https://github.com/tirz)|No|
 |[grwp24hodrefzvjjuccrkw3mjq4tzhaaq32amf33dzpmuxe7ilepcmad.onion](http://grwp24hodrefzvjjuccrkw3mjq4tzhaaq32amf33dzpmuxe7ilepcmad.onion/)|🇺🇸 United States|[vid.puffyan.us](https://vid.puffyan.us)|[Here](None)|[@ItsSt0ne](https://github.com/ItsSt0ne)|No|
 |[hpniueoejy4opn7bc4ftgazyqjoeqwlvh2uiku2xqku6zpoa4bf5ruid.onion](http://hpniueoejy4opn7bc4ftgazyqjoeqwlvh2uiku2xqku6zpoa4bf5ruid.onion/)|🇺🇸 United States|[invidious-us.kavin.rocks](https://invidious-us.kavin.rocks/)|[Here](None)|[@FireMasterK](https://github.com/FireMasterK)|No|
-|[None](xinzguzyta7riddeoygku6btmm3mdryxtfzwwjxy3zqpoxk3xg5qq6ad.onion)|🇩🇪 Germany|[invidious.moomoo.me](https://invidious.moomoo.me)|[Here](None)|[@moom0o](https://github.com/moom0o)|No|
+|[xinzguzyta7riddeoygku6btmm3mdryxtfzwwjxy3zqpoxk3xg5qq6ad.onion](http://xinzguzyta7riddeoygku6btmm3mdryxtfzwwjxy3zqpoxk3xg5qq6ad.onion)|🇩🇪 Germany|[invidious.moomoo.me](https://invidious.moomoo.me)|[Here](None)|[@moom0o](https://github.com/moom0o)|No|
   
 
 # Adding your instance
