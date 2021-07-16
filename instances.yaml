@@ -184,29 +184,13 @@ instances:
       owner: https://github.com/Showfom
       is_modified: false
       source: null
-      
-    - url: https://invidious.cmh.pw
-      country: US
+            
+    - url: https://invidious.hub.ne.kr
+      country: SG
       status: 
-        url: https://stats.uptimerobot.com/GwjjntJLKD/788551784
-        display_content: https://img.shields.io/uptimerobot/status/m788551784-5acd7c39c59eca92a5e1346d
-        display_content_is_image: True
-        display_content_image_fallback: Uptime Robot status
-      privacy_policy: 
-      ddos_mitm_protection: Cloudflare
-      owner: https://github.com/ChxseH
-      is_modified: false
-      source: null
-      
-    - url: https://invidious.s1gm4.eu
-      country: FR
-      status: 
-        url: https://status.s1gm4.eu
-        display_content: Status Page
-        display_content_is_image: False
       privacy_policy:
       ddos_mitm_protection: null
-      owner: https://github.com/OrnithOrtion
+      owner: https://github.com/hys0star
       is_modified: false
       source: null
 
@@ -269,3 +253,20 @@ instances:
       owner: https://github.com/moom0o
       is_modified: false
       source: null
+
+    - url: http://invidc4i7i5uci6cledxsao6w7ng5etpflagdzoxj3yhipztwzvqjryd.onion/
+      country: DE
+      associated_clearnet_instance: https://invidious.exonip.de
+      privacy_policy:
+      owner: https://github.com/Exonip
+      is_modified: True
+      source: https://github.com/exonip-de/invidious-source-modifications
+
+    - url: http://vrg2a4cdxlngik5fkx6hbkslmd6yybsnot5bcegx6cfc7xja2t4r4zqd.onion
+      country: SG
+      associated_clearnet_instance: https://invidious.hub.ne.kr
+      privacy_policy:
+      owner: https://github.com/hys0star
+      is_modified: false
+      source: null
+
