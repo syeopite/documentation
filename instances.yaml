@@ -51,7 +51,10 @@ instances:
 
     - url: https://yewtu.be
       country: FR
-      status: null
+      status:
+        url: https://uptime.invidious.io/784257752
+        image: https://img.shields.io/uptimerobot/status/m783898765-2a4efa67aa8d1c7be6b1dd9d
+        text: Uptime Robot status
       privacy_policy: null
       ddos_mitm_protection: null
       owner: https://github.com/unixfox
