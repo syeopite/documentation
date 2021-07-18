@@ -28,7 +28,7 @@ Instances API: [api.invidious.io](api.invidious.io)
 |[yt.cyberhost.uk](https://yt.cyberhost.uk/)|🇫🇮 Finland|[![Uptime Robot status](https://img.shields.io/uptimerobot/status/m788432154-c8801112193f349268ea6104)](https://stats.uptimerobot.com/JlM0qH8Ygn)|[Here](None)|None|[@cyberhost-uk](https://github.com/cyberhost-uk)||
 |[y.com.cm](https://y.com.cm/)|🇩🇪 Germany||[Here](None)|Cloudflare|[@Showfom](https://github.com/Showfom)||
 |[invidious.s1gm4.eu](https://invidious.s1gm4.eu)|🇫🇷 France||[Here](None)|None|[@OrnithOrtion](https://github.com/OrnithOrtion)||
-|[invidious.hub.ne.kr](https://invidious.hub.ne.kr)|🇸🇬 Singapore||[Here](None)|None|[@hys0star](https://github.com/hys0star)||
+|[invidious.hub.ne.kr](https://invidious.hub.ne.kr)|🇸🇬 Singapore||[Here](https://privacy.osbusiness.net)|None|[@hys0star](https://github.com/hys0star)||
   
 
 # Onion instances list
@@ -42,7 +42,7 @@ Instances API: [api.invidious.io](api.invidious.io)
 |[hpniueoejy4opn7bc4ftgazyqjoeqwlvh2uiku2xqku6zpoa4bf5ruid.onion](http://hpniueoejy4opn7bc4ftgazyqjoeqwlvh2uiku2xqku6zpoa4bf5ruid.onion/)|🇺🇸 United States|[invidious-us.kavin.rocks](https://invidious-us.kavin.rocks/)|[Here](None)|[@FireMasterK](https://github.com/FireMasterK)||
 |[xinzguzyta7riddeoygku6btmm3mdryxtfzwwjxy3zqpoxk3xg5qq6ad.onion](http://xinzguzyta7riddeoygku6btmm3mdryxtfzwwjxy3zqpoxk3xg5qq6ad.onion)|🇩🇪 Germany|[invidious.moomoo.me](https://invidious.moomoo.me)|[Here](None)|[@moom0o](https://github.com/moom0o)||
 |[invidc4i7i5uci6cledxsao6w7ng5etpflagdzoxj3yhipztwzvqjryd.onion](http://invidc4i7i5uci6cledxsao6w7ng5etpflagdzoxj3yhipztwzvqjryd.onion/)|🇩🇪 Germany|[invidious.exonip.de](https://invidious.exonip.de)|[Here](None)|[@Exonip](https://github.com/Exonip)| - [Instance is running a modified source code](https://github.com/exonip-de/invidious-source-modifications)|
-|[vrg2a4cdxlngik5fkx6hbkslmd6yybsnot5bcegx6cfc7xja2t4r4zqd.onion](http://vrg2a4cdxlngik5fkx6hbkslmd6yybsnot5bcegx6cfc7xja2t4r4zqd.onion)|🇸🇬 Singapore|[invidious.hub.ne.kr](https://invidious.hub.ne.kr)|[Here](None)|[@hys0star](https://github.com/hys0star)||
+|[vrg2a4cdxlngik5fkx6hbkslmd6yybsnot5bcegx6cfc7xja2t4r4zqd.onion](http://vrg2a4cdxlngik5fkx6hbkslmd6yybsnot5bcegx6cfc7xja2t4r4zqd.onion)|🇸🇬 Singapore|[invidious.hub.ne.kr](https://invidious.hub.ne.kr)|[Here](https://privacy.osbusiness.net)|[@hys0star](https://github.com/hys0star)||
   
 
 # Adding your instance
